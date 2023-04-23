@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MakeUp4You</string>
+    <string name="makeup4you_label">MakeUp4You</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">SignIn</string>
+    <string name="signup">SignUp</string>
+    <string name="enter_username_and_password">Enter username and password</string>
+</resources>
